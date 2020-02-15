@@ -35,7 +35,7 @@ let geturl = () => {
 };
 
 let getrandom = () => {
-    let text = "ID@";
+    let text = "id-";
     let possible = "abcdefghijklmnopqrstuvwxyz0123456789";
 
     for (let i = 0; i < 5; i++)
