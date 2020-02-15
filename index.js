@@ -35,7 +35,7 @@ let geturl = () => {
 };
 
 let getrandom = () => {
-    let text = "sexchat/";
+    let text = "ID@";
     let possible = "abcdefghijklmnopqrstuvwxyz0123456789";
 
     for (let i = 0; i < 5; i++)
